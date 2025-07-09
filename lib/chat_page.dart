@@ -27,7 +27,7 @@ class _ChatPageState extends State<ChatPage> {
       'content': content,
       'senderId': currentUserId,
       'timestamp': FieldValue.serverTimestamp(),
-    }
+    };
 
     try {
       // Send message to Firestore (sender's side)
