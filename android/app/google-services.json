@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467646959624",
+    "project_id": "twitter-x-clone-ba8df",
+    "storage_bucket": "twitter-x-clone-ba8df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467646959624:android:d7a32070d69bae1a5b01bd",
+        "android_client_info": {
+          "package_name": "com.raydee.twitter_x_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467646959624-7q8st8jcov8s93qce5jusov9i69l5qe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA-5nhq4pomP4SXWCF-6tQG8qmxn8eaeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467646959624-7q8st8jcov8s93qce5jusov9i69l5qe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
