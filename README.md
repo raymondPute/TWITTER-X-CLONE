@@ -1,4 +1,4 @@
-# twitter_x_clone
+# TWITTER-X-CLONE
 
 A new Flutter project.
 
