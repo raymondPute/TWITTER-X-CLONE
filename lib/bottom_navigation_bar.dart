@@ -8,7 +8,7 @@ class BottomNavBar extends StatelessWidget {
       selectedItemColor: Colors.white,
       unselectedItemColor: Colors.grey,
       showSelectedLabels: false,
-      showUnselectedLabels: false,
+      showUnselectedLabels: false
       items: [
         BottomNavigationBarItem(icon: Icon(Icons.home_outlined), label: 'Home'),
         BottomNavigationBarItem(icon: Icon(Icons.search), label: 'Search'),
